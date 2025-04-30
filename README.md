@@ -1,4 +1,6 @@
 # Visualization of player statistics in the game CAll of Dragon.
+[Scripts to load data](https://github.com/YevheniyEvt/LoadCODData)
+
 - Data is loaded from the database and displayed using pandas and streamlit.
 - There are 4 blocks with different data.
 
